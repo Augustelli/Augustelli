@@ -23,7 +23,7 @@ Creo firmemente en la importancia del aprendizaje continuo y me esfuerzo por man
 
 ## 📫 Contáctame
 
-- LinkedIn: [https://www.linkedin.com/in/augustotomasmancuso/]
+- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/augustotomasmancuso/)
 - Gmail : [Email personal](augusto.tomas.mancuso@gmail.com)
 
 
