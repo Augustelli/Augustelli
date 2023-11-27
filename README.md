@@ -33,3 +33,9 @@ Cuando no estoy programando, me encanca leer y escuchar música.
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por las oportunidades de colaboración y aprendizaje. No dudes en explorar mis proyectos y contactarme para cualquier consulta.
 
+<div>
+  <a href="https://beacons.ai/Augustelli">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Augustelli&show_icons=true&theme=transparent&count_private=true)"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustelli&layout=compact&theme=transparent&count_private=true)"/> 
+
+</div>
