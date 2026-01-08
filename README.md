@@ -5,9 +5,8 @@ Software/Computer Engineering  (Argentina).
 I build and operate reliable services in **hybrid and cloud** environments with **Kubernetes**, **CI/CD**, and **end-to-end observability**.
 
 - 📍 Mendoza, AR
-- 🔎 Open to opportunities (DevOps / Cloud / Backend)
 - 🔗 LinkedIn: https://www.linkedin.com/in/augustotomasmancuso/
-- 🌐 Portfolio (WIP): https://me.augustomancuso.com
+- 🌐 Portfolio: https://me.augustomancuso.com
 
 ---
 
@@ -20,6 +19,7 @@ On the ops side, I implement **observability** with **Grafana, Prometheus, Loki,
 - CI/CD with **canary/rollback** and metric gates
 - Full-stack **observability** (metrics, logs, traces)
 - On-prem → **Kubernetes/AWS** migrations
+- Backend development + Cloud Native Focus
 
 ---
 
